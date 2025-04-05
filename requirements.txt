@@ -1,0 +1,7 @@
+sqlite3
+customktinker
+Pillow
+matplotlib
+tkcalendar
+CustomTkinterMessagebox
+pandas
