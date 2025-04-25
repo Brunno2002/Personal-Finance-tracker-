@@ -8,9 +8,49 @@ A Personal Finance Tracker using python, Tkinter, CustomTkinter, and SQL
 
 ## 🚀 Features
 - Easily input new categories such as but not limited to Food, Transport, and rent.
-- ![image](https://github.com/user-attachments/assets/6892a494-af16-4bb2-b2de-8739a25badf5)
-
 - Easily see your how much money you have left from your income with the loading bar.
-![image](https://github.com/user-attachments/assets/717ed801-4c96-48ea-8f52-f992735f9bda)
--
-  
+- See in a list of your of all your purcheses and income made in a list of your transaction history.
+- easily see where most of your expenses are going twords with the pie chart on the left side of the app.
+
+## 🛠️ Technologies Used
+**Screen:**
+[Customtkinter](https://customtkinter.tomschimansky.com/)
+[MatlabLib](https://matplotlib.org/stable/index.html)
+
+**Data Storage:**
+[sqlite3](https://www.sqlite.org/docs.html)
+
+**Others:**
+[Pandas](https://www.sqlite.org/docs.html)
+
+## ⚙️ Installation
+1. Create Virtual inviornment
+python -m venv expensetrackerVenv
+2. Setup invironment
+git config --global user.name "John something"
+git config --global user.email hello@gmail.com
+3. Clone Repository
+git clone https://github.com/Brunno2002/Personal_Finance_Tracker
+4. intall requirements
+pip install -r requirements.txt
+
+## 📈project Structure
+
+finance-tracker/
+├── data/           
+│   ├── finance.db
+|
+├── docs/   
+|   ├── pigg_white.png
+|   └── piggybank.png
+|
+├── src/           
+│   ├── database.py
+│   └── main.py
+|
+└── .gitignore/    
+
+🔍 Why I Built This
+I wanted to after to make my first solo project to be based on something that I have always found hard to do that being tracking my finance. All the other finance apps I find to complicated to use so I made my own version to my liking.
+
+👨💻 Created by [Brunno](www.linkedin.com/in/brunno-miotto)
