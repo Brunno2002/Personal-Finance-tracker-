@@ -7,7 +7,10 @@ A modern local app for personal finance management with expense and income track
 A Personal Finance Tracker using python, Tkinter, CustomTkinter, and SQL
 
 ## 🚀 Features
-- Easily input new categories such as but not limited to Food, Transport, and rent
-- Easily see your how much money you have left from your income with the loading bar ![image](https://github.com/user-attachments/assets/717ed801-4c96-48ea-8f52-f992735f9bda)
+- Easily input new categories such as but not limited to Food, Transport, and rent.
+- ![image](https://github.com/user-attachments/assets/6892a494-af16-4bb2-b2de-8739a25badf5)
 
+- Easily see your how much money you have left from your income with the loading bar.
+![image](https://github.com/user-attachments/assets/717ed801-4c96-48ea-8f52-f992735f9bda)
+-
   
