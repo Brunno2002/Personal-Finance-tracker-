@@ -15,7 +15,7 @@ A modern local app for personal finance management with expense and income track
 Python
 
 **Screen:**
-[Customtkinter](https://customtkinter.tomschimansky.com/)
+[Customtkinter](https://customtkinter.tomschimansky.com/),
 [MatlabLib](https://matplotlib.org/stable/index.html)
 
 **Data Storage:**
