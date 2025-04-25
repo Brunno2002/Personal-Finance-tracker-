@@ -11,7 +11,7 @@ A modern local app for personal finance management with expense and income track
 - easily see where most of your expenses are going twords with the pie chart on the left side of the app.
 
 ## 🛠️ Technologies Used
-**Built in**
+**Built in:**
 Python
 
 **Screen:**
@@ -36,10 +36,10 @@ git clone https://github.com/Brunno2002/Personal_Finance_Tracker
 pip install -r requirements.txt
 
 ## 📈Future Enhancements
--[x] Add loading bar to see my current use 
--[] Make it under a cloud 
--[] Develop mobile app versions
--[] Increase user experience by making the application easier to understand and use
+- [x] Add loading bar to see my current use 
+- [] Make it under a cloud 
+- [] Develop mobile app versions
+- [] Increase user experience by making the application easier to understand and use
 
 ## 📜 License
 Distributed under the MIT License. See LICENSE for more information.
