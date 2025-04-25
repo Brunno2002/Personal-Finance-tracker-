@@ -25,18 +25,18 @@ Python
 [Pandas](https://www.sqlite.org/docs.html)
 
 ## ⚙️ Installation
-1. Create Virtual inviornment.
-python -m venv expensetrackerVenv
+1. Create Virtual inviornment {
+python -m venv expensetrackerVenv }
 
-2. Setup invironment.
-git config --global user.name "John something"
-git config --global user.email hello@gmail.com
+2. Setup environments {
+git config --global user.name "John something" } {
+git config --global user.email hello@gmail.com }
+ 
+3. Clone Repository { 
+git clone https://github.com/Brunno2002/Personal_Finance_Tracker }
 
-3. Clone Repository.
-git clone https://github.com/Brunno2002/Personal_Finance_Tracker
-
-4. intall requirements.
-pip install -r requirements.txt
+4. intall requirements {
+pip install -r requirements.txt }
 
 ## 📈Future Enhancements
 - [x] Add loading bar to see my current use 
