@@ -37,9 +37,9 @@ pip install -r requirements.txt
 
 ## 📈Future Enhancements
 - [x] Add loading bar to see my current use 
-- [] Make it under a cloud 
-- [] Develop mobile app versions
-- [] Increase user experience by making the application easier to understand and use
+- [ ] Make it under a cloud 
+- [ ] Develop mobile app versions
+- [ ] Increase user experience by making the application easier to understand and use
 
 ## 📜 License
 Distributed under the MIT License. See LICENSE for more information.
