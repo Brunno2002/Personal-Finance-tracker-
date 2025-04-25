@@ -34,23 +34,16 @@ git clone https://github.com/Brunno2002/Personal_Finance_Tracker
 4. intall requirements
 pip install -r requirements.txt
 
-## 📈project Structure
+## 📈Future Enhancements
+-[x] Add loading bar to see my current use 
+-[] Make it under a cloud 
+-[] Develop mobile app versions
+-[] Increase user experience by making the application easier to understand and use
 
-finance-tracker/
-├── data/           
-│   ├── finance.db
-|
-├── docs/   
-|   ├── pigg_white.png
-|   └── piggybank.png
-|
-├── src/           
-│   ├── database.py
-│   └── main.py
-|
-└── .gitignore/    
+## 📜 License
+Distributed under the MIT License. See LICENSE for more information.
 
-🔍 Why I Built This
+## 🔍 Why I Built This
 I wanted to after to make my first solo project to be based on something that I have always found hard to do that being tracking my finance. All the other finance apps I find to complicated to use so I made my own version to my liking.
 
-👨💻 Created by [Brunno](www.linkedin.com/in/brunno-miotto)
+## 👨💻 Created by [Brunno](www.linkedin.com/in/brunno-miotto)
